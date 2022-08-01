@@ -58,7 +58,7 @@ Developed both the backend and mobile app for the card program that used no SDKs
 *  How Haskell and extensive use of algebraic data types allowed us to move faster than both of our competitors
 *  How we increased our NPS from the 40s to the 90s
 
-————————
+---
 
 ### Figure Eight (previously known as CrowdFlower) — 2017 - 2018
 
@@ -77,7 +77,7 @@ Developed both the backend and mobile app for the card program that used no SDKs
 *  Worked on effort to investigate adding types to the React frontend to increase reliability and developer velocity. Investigated using Typescript, Reason, and Flow. Team settled on Typescript and began effort to slowly add 100% types to code base. Led effort to enforce Typescript best practices on code reviews.
 *  Worked on upgrading the front end codebase to current framework releases without breaking current development.
 
-————————
+---
 
 ### UC Berkeley Extension — 2017 - 2018
 
@@ -96,7 +96,7 @@ Was the lead instructor of a bootcamp for adults to learn software development s
 *  MongoDB and MySQL as databases, including Bookshelf.js as an ORM
 *  Express (node.js web framework)
 
-————————
+---
 
 ### Alana.cloud (Fynd.me pivot) — 2014 - 2017
 
@@ -114,7 +114,8 @@ Was the lead instructor of a bootcamp for adults to learn software development s
 *  Developed a search engine for fashion that allowed users to search for pieces not by text by by selecting pieces similar to their desired look. The platform then used graph database to find similar garments by looking at the distance from the selected garments.
 *  Developed an annotation platform so our fashion experts could categorize and tag garments to train machine learning models to auto-tag garments.
 *  Piloted with a top 3 fashion retailer to replace their in-house e-commerce search engine with our own technology.
-————————
+
+---
 
 ### Cutera — 2012  - 2014
 
@@ -126,7 +127,7 @@ Was the lead instructor of a bootcamp for adults to learn software development s
 *  Porting and writing software for new hand pieces including using I²C, SPI, and internal ARM chipset features in C.
 *  Maintaining custom Windows software used during development and build.
 
-————————
+---
 
 ### Lensx Inc (acquired by Alcon Inc) — 2008 - 2012
 
